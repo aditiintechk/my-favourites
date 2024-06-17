@@ -1,16 +1,12 @@
 import './App.css'
-import Anime from './components/Anime.jsx'
-import Movies from './components/Movies.jsx'
-import Shows from './components/Shows.jsx'
+import Component from './components/Component.jsx'
+import data from './utility/data.js'
 
 function App() {
-	return (
-		<div>
-			<Anime />
-			<Movies />
-			<Shows />
-		</div>
-	)
+	let items = data.map((item) => {
+		return <Component key={item.id} item={item} />
+	})
+	return <div>{items}</div>
 }
 
 export default App

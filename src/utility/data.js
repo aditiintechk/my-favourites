@@ -1,5 +1,6 @@
 export default [
 	{
+		id: 1,
 		category: 'Anime',
 		title: 'Haikyu!!',
 		year: 2014,
@@ -9,6 +10,7 @@ export default [
 		description: `Determined to be like the volleyball championship's star player nicknamed "the small giant", Shoyo joins his school's volleyball club.`,
 	},
 	{
+		id: 2,
 		category: 'Anime',
 		title: 'Attack On Titan',
 		year: 2013,
@@ -19,6 +21,7 @@ export default [
 			'After his hometown is destroyed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.',
 	},
 	{
+		id: 3,
 		category: 'Anime',
 		title: 'A Silent Voice',
 		year: 2016,
@@ -28,6 +31,7 @@ export default [
 			'A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.',
 	},
 	{
+		id: 4,
 		category: 'Movie',
 		title: '3 idiots',
 		year: 2009,
@@ -37,6 +41,7 @@ export default [
 			'Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots',
 	},
 	{
+		id: 5,
 		category: 'Movie',
 		title: 'Begin Again',
 		year: 2013,
@@ -46,6 +51,7 @@ export default [
 			'A chance encounter between a down-and-out music business executive, and a young singer songwriter new to Manhattan, turns into a promising collaboration between the two talents.',
 	},
 	{
+		id: 6,
 		category: 'Movie',
 		title: 'Your Name Engraved Herein',
 		year: 2020,
@@ -55,6 +61,7 @@ export default [
 			'In 1987, as martial law ends in Taiwan, Jia-han and Birdy fall in love amid family pressure, homophobia and social stigma.',
 	},
 	{
+		id: 7,
 		category: 'TV Show',
 		title: 'My Liberation Diary',
 		year: 2022,
@@ -65,6 +72,7 @@ export default [
 			'Three siblings, exhausted by the monotony of day-to-day adulthood, seek to find fulfillment and freedom from their humdrum lives.',
 	},
 	{
+		id: 8,
 		category: 'TV Show',
 		title: 'Dr.Kim',
 		year: 2016,
@@ -75,6 +83,7 @@ export default [
 			'Romantic Doctor Kim is a real doctor story set in a small, humble hospital called Dol Dam Hospital. It is a story about people who meet Kim Sa Bu (Han Suk Kyu), a genius doctor, and discover real romance of life.',
 	},
 	{
+		id: 9,
 		category: 'TV Show',
 		title: 'Heartstopper',
 		year: 2022,
